@@ -1,4 +1,4 @@
-# 🧵 Weavora – AI-Powered Academic Ecosystem  
+# 🧵 Campus-Hub – AI-Powered Academic Ecosystem  
 *A unified, intelligent learning platform that weaves together classroom management, AI tutoring, AI grading, communication, and productivity tools into one seamless experience.*
 
 
@@ -7,9 +7,9 @@
 
 ## 🚀 Overview
 
-**Weavora** is an AI-enhanced academic platform built to eliminate the fragmentation of modern learning systems. Students and teachers currently switch between Google Classroom, WhatsApp/Discord, and various AI tools, causing confusion and reducing academic productivity.
+**Campus-Hub** is an AI-enhanced academic platform built to eliminate the fragmentation of modern learning systems. Students and teachers currently switch between Google Classroom, WhatsApp/Discord, and various AI tools, causing confusion and reducing academic productivity.
 
-Weavora unifies everything into one ecosystem—AI tutoring, AI auto-grading, lecture explanation, real-time chat, resource organization, focus mode, and emergency alerts—through a single clean interface.
+Campus-Hub unifies everything into one ecosystem—AI tutoring, AI auto-grading, lecture explanation, real-time chat, resource organization, focus mode, and emergency alerts—through a single clean interface.
 
 ---
 
@@ -33,7 +33,7 @@ Weavora unifies everything into one ecosystem—AI tutoring, AI auto-grading, le
 
 ---
 
-## 💡 Features of Weavora
+## 💡 Features of Campus-Hub
 
 ### 🧠 AI-Driven Features
 - AI auto-grading using teacher-provided marking schemes  
